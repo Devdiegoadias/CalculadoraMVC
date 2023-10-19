@@ -1,0 +1,15 @@
+C:\InfnetWebBD\CalculadoraMVC\bin\Debug\net6.0\CalculadoraMVC.exe
+C:\InfnetWebBD\CalculadoraMVC\bin\Debug\net6.0\CalculadoraMVC.deps.json
+C:\InfnetWebBD\CalculadoraMVC\bin\Debug\net6.0\CalculadoraMVC.runtimeconfig.json
+C:\InfnetWebBD\CalculadoraMVC\bin\Debug\net6.0\CalculadoraMVC.dll
+C:\InfnetWebBD\CalculadoraMVC\bin\Debug\net6.0\CalculadoraMVC.pdb
+C:\InfnetWebBD\CalculadoraMVC\obj\Debug\net6.0\CalculadoraMVC.csproj.AssemblyReference.cache
+C:\InfnetWebBD\CalculadoraMVC\obj\Debug\net6.0\CalculadoraMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\InfnetWebBD\CalculadoraMVC\obj\Debug\net6.0\CalculadoraMVC.AssemblyInfoInputs.cache
+C:\InfnetWebBD\CalculadoraMVC\obj\Debug\net6.0\CalculadoraMVC.AssemblyInfo.cs
+C:\InfnetWebBD\CalculadoraMVC\obj\Debug\net6.0\CalculadoraMVC.csproj.CoreCompileInputs.cache
+C:\InfnetWebBD\CalculadoraMVC\obj\Debug\net6.0\CalculadoraMVC.dll
+C:\InfnetWebBD\CalculadoraMVC\obj\Debug\net6.0\refint\CalculadoraMVC.dll
+C:\InfnetWebBD\CalculadoraMVC\obj\Debug\net6.0\CalculadoraMVC.pdb
+C:\InfnetWebBD\CalculadoraMVC\obj\Debug\net6.0\CalculadoraMVC.genruntimeconfig.cache
+C:\InfnetWebBD\CalculadoraMVC\obj\Debug\net6.0\ref\CalculadoraMVC.dll
