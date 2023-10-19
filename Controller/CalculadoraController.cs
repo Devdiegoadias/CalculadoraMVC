@@ -1,10 +1,5 @@
 ﻿using CalculadoraMVC.Model;
 using CalculadoraMVC.View;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CalculadoraMVC.Controller
 {
@@ -17,9 +12,9 @@ namespace CalculadoraMVC.Controller
         {
             while (true)
             {
-                double a = view.PegarNumero("Digite o primeiro número: ");
-                double b = view.PegarNumero("Digite o segundo número: ");
-                char operacao = view.PegarOperacao();
+                double a = view.LerNumero("Digite o primeiro número: ");
+                double b = view.LerNumero("Digite o segundo número: ");
+                char operacao = view.LerOperacao();
 
                 double resultado;
 
